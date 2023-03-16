@@ -1,8 +1,6 @@
-![App Screenshot](.github/cover.png)
+## App - Frankenstein
 
-# HELP.Desk
-App to manage maintenance calls. App to manage maintenance calls. This application was created for the purpose of studies.
-
+  Crisvagner, a self-taught young man who seeks to know more and more about the dark world behind React technology, created a monster app, with an almost ugly appearance, from different components, from other apps he found, and brought them to life. The enormous performance and monstrous appearance of the app provoked curiosity in those who saw it.
 
 ## Stack
 
@@ -15,32 +13,31 @@ App to manage maintenance calls. App to manage maintenance calls. This applicati
 - Firebase Firestore with Real Time updates
 - And more...
 
-
 ## Features
 
-- User authentication 
+- User authentication
 - Create new user
 - Create new order
 - List orders
 - Show real time status
 - And more...
 
-
 ## Running
 
 You have two branchs. The master you have project base with layout design only. And, the done you have the project finished with charts implemented.
 
-Clone this project and start with Expo: 
+Clone this project and start with Expo:
+
 ```bash
   git clone branch_url
-  cd expensesapp
+  cd helpdesk
   npm install
   expo start
 ```
 
-## Feedback 
+## Credits
 
-Would you like to speak with me? I find myself on Linkedin: [linkedin.com/in/rodrigo-goncalves-santana/](https://www.linkedin.com/in/rodrigo-goncalves-santana/)
- 
-[![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Gonçalves%20Santana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/)](https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/) 
-</div>
+Font of the apps that I got the components:
+
+Rodrigo Gonçalves Santana
+github: <https://github.com/rodrigorgtic>
